@@ -1,6 +1,6 @@
-## Name: MADHUMITHRA.P
-## Reg No: 25013492
-## Date: 21.10.2025
+# PYTHON PROGRAMMMING MODULE 3
+
+### DATE: 21.10.2025
 # Experiment No:3-A: List Operations in Python: Sum of List Items
 
 ## 🎯 Aim
